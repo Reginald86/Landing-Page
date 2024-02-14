@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    outline: yellow 2px solid;
+}
+
+header{
+    background-image: linear-gradient(black, #27272a);
+    opacity:86%;
+}
+
+nav{
+    display: flex;
+    flex: 1;
+    justify-content:space-around;
+    align-items:center;
+    flex-direction: row;
+    padding: 20px 0;
+}
+
+nav ul{
+    
+    list-style-type: none;
+    display: flex;
+    gap: 23px;
+}
+
+nav ul li:first-child{
+    margin-left:50px;
+}
+
+nav ul li a{
+    color: white;
+    font-size: 21px;
+    text-decoration: none;
+}
+
+nav li a:hover{
+    color: red;
+    transition: all 0.4s ease 0s;
+}
+
+.logo{
+    height: 80px;
+}
+
+.logo img{
+    height: 80px;
+}
+
+/* End of Nav Bar /*
+
+
+
