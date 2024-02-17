@@ -7,7 +7,7 @@ It's not good, but I think it's a good start.  I attempted a few things (respons
 
 <strong>Photo Credits:</strong>
 
-Lum3n
-Andrew Neel
-Charles
-Willdridge
+Lum3n <br>
+Andrew Neel <br>
+Charles <br>
+Willdridge 
